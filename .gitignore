@@ -6,3 +6,4 @@ env.yaml
 
 # dependencies
 /node_modules
+/vendor/
